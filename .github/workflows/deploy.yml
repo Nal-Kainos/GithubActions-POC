@@ -10,7 +10,7 @@ on:
 env:
   applicationfolder: spring-boot-hello-world-example
   AWS_REGION: us-east-1
-  S3BUCKET: poc-githubactions-webappdeploymentbucket-14y7x984wh24d
+  S3BUCKET: poc-githubactions-webappdeploymentbucket-1dywatds711gl
 
 
 jobs:
